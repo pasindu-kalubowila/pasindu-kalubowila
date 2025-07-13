@@ -72,19 +72,15 @@ I'm a passionate **Quality Engineering Leader**, automation architect, and open-
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/pasindu-kalubowila)
+- [LinkedIn](https://www.linkedin.com/in/pasindu-kalubowila-39653b105)
 - [GitHub](https://github.com/pasindu-kalubowila)
 - Email: pasindu.kalubowila@gmail.com
 
 ---
 
-## 🔥 GitHub Stats
-
-![Pasindu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pasindu-kalubowila&show_icons=true&theme=react)
-
----
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pasindu-kalubowila&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="pasindu-kalubowila" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pasindu-kalubowila&show_icons=true&locale=en&theme=gruvbox" alt="pasindu-kalubowila" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pasindu-kalubowila&theme=gruvbox" alt="pasindu-kalubowila" /></p>
 
