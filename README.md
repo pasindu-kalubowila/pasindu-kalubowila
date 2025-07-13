@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 Welcome to my GitHub!  
 I'm a passionate **Quality Engineering Leader**, automation architect, and open-source enthusiast with a mission to build robust, scalable, and intelligent QA solutions for the enterprise.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pasindu-kalubowila&label=Profile%20views&color=0e75b6&style=flat" alt="pasindu-kalubowila"/></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pasindu-kalubowila&no-bg=true&theme=gruvbox" alt="pasindu-kalubowila" /></a> </p>
+
 ---
 
 ## 🏆 About Me
@@ -51,11 +55,8 @@ I'm a passionate **Quality Engineering Leader**, automation architect, and open-
 - [QA_Test_Automation_Streamlit_App](https://github.com/pasindu-kalubowila/QA_Test_Automation_Streamlit_App)  
   *AI-powered test case and Java automation code generator*
 
-- [Cypress-E2E-Automation-Boilerplate](https://github.com/pasindu-kalubowila/Cypress-E2E-Automation-Boilerplate)  
-  *Modern end-to-end automation framework using Cypress*
-
-- [selenium-java-testng-framework](https://github.com/pasindu-kalubowila/selenium-java-testng-framework)  
-  *Enterprise Selenium, TestNG, POM starter kit*
+- [POS-System](https://github.com/pasindu-kalubowila/POS-System)  
+  *POS-System*
 
 ---
 
@@ -82,6 +83,10 @@ I'm a passionate **Quality Engineering Leader**, automation architect, and open-
 ![Pasindu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pasindu-kalubowila&show_icons=true&theme=react)
 
 ---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pasindu-kalubowila&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="pasindu-kalubowila" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pasindu-kalubowila&theme=gruvbox" alt="pasindu-kalubowila" /></p>
 
 ## 📝 Latest Activity
 
